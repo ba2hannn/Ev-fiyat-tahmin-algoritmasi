@@ -16,6 +16,7 @@ Bu projeyi çalıştırmak için aşağıdaki Python kütüphanelerini kurmanız
 - seaborn
 - scikit-learn
 - keras
+- tensorflow
 
 Bu kütüphaneleri pip kullanarak kurabilirsiniz:
 
