@@ -19,7 +19,7 @@ Bu projeyi çalıştırmak için aşağıdaki Python kütüphanelerini kurmanız
 
 Bu kütüphaneleri pip kullanarak kurabilirsiniz:
 
-pip install pandas numpy matplotlib seaborn scikit-learn keras
+pip install pandas numpy matplotlib seaborn scikit-learn keras tensorflow
 
 ### Veri Seti
 
